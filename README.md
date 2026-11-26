@@ -17,13 +17,6 @@ Pune, Maharashtra, India
 <a href="mailto:prafullamandal2006@gmail.com">
 <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-<a href="https://leetcode.com/u/Prafulla_Mandal">
-<img src="https://img.shields.io/badge/LeetCode-Practice-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
-</a>
-
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=Prafulla0001&label=PROFILE+VIEWS&color=2563eb&style=flat" alt="Profile Views"/>
 
 </div>
 
