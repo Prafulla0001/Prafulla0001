@@ -1,4 +1,4 @@
-# <div align="center">PRAFULLA VISHWAJIT MANDAL</div>
+# <div align="center">Prafulla Vishwajit Mandal</div>
 
 <div align="center">
 
