@@ -5,8 +5,6 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=750&lines=Computer+Engineering+Undergraduate;Data+Science+Enthusiast;Machine+Learning+Explorer;Python+Developer;Exploring+AI+%26+Analytics" alt="Typing Introduction"/>
 
-**Computer Engineering Undergraduate | Data Science | Machine Learning | Python**
-
 Pune, Maharashtra, India
 
 <a href="https://github.com/Prafulla0001">
