@@ -1,10 +1,11 @@
-# <div align="center">Prafulla Vishwajit Mandal</div>
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=750&lines=Computer+Engineering+Undergraduate;Full+Stack+Java+Developer;Data+Science+%26+AI%2FML+Enthusiast;Software+Testing+%26+Quality+Assurance" alt="Typing Introduction"/>
+# Prafulla Vishwajit Mandal
 
-**Computer Engineering Undergraduate | Software Development | Data Science | AI/ML | QA**
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=750&lines=Computer+Engineering+Undergraduate;Data+Science+Enthusiast;Machine+Learning+Explorer;Python+Developer;Exploring+AI+%26+Analytics" alt="Typing Introduction"/>
+
+**Computer Engineering Undergraduate | Data Science | Machine Learning | Python**
 
 Pune, Maharashtra, India
 
@@ -24,55 +25,59 @@ Pune, Maharashtra, India
 
 ## About Me
 
-Computer Engineering undergraduate passionate about building practical, scalable, and intelligent software solutions.
+Computer Engineering undergraduate focused on **Data Science, Machine Learning, and Python Development**.
 
-My interests include full-stack development, data science, artificial intelligence, backend engineering, and software quality assurance.
+I enjoy working with data, exploring patterns, building predictive models, and developing practical applications that solve real-world problems.
 
 - Pursuing B.Tech in Computer Engineering at D. Y. Patil College of Engineering, Akurdi.
-- Interested in Java development, backend engineering, and data analytics.
-- Experienced in manual testing, test case writing, and API testing.
-- Exploring AI-powered applications, RAG, OCR, and machine learning.
-- Currently learning Full Stack Java and Data Science.
+- Primarily focused on Data Science and Machine Learning.
+- Exploring data preprocessing, exploratory data analysis, and predictive modelling.
+- Working with Python, Pandas, NumPy, and Scikit-learn.
+- Learning Flask for Python-based backend development.
+- Interested in AI-powered applications, RAG, OCR, and intelligent systems.
 - Regularly practicing Data Structures and Algorithms.
+
+My goal is to strengthen my understanding of data, machine learning, and software development by building practical projects.
 
 ---
 
 ## Featured Projects
 
-### MediKiosk — AI-Assisted Patient Case Taking
+### 1. Heart Disease Prediction
+
+**Technologies:** Python, Pandas, Scikit-learn, Logistic Regression, Java Swing
+
+A machine learning application designed to predict heart disease based on patient health parameters.
+
+- Performed data preprocessing and exploratory analysis.
+- Implemented Logistic Regression using Scikit-learn.
+- Evaluated the model using classification metrics.
+- Integrated the Python ML backend with a Java Swing interface.
+- Included BMI and lifestyle-related information.
+
+### 2. MediKiosk — AI-Assisted Patient Case Taking
 
 **Technologies:** AI, RAG, OCR, ASR, TTS
 
-An intelligent healthcare solution developed for Smart India Hackathon Problem Statement 26047.
+An AI-assisted healthcare solution developed for Smart India Hackathon Problem Statement 26047.
 
-- Implements multilingual, dynamic patient questioning using RAG.
+- Implements multilingual and dynamic patient questioning using RAG.
 - Extracts medical information from prescriptions and reports using OCR.
-- Supports speech-to-text and text-to-speech interactions.
-- Generates structured, doctor-ready summaries.
+- Explores speech-to-text and text-to-speech interactions.
+- Generates structured, doctor-ready patient summaries.
 
-### Mira — Emotion-Based Personal Assistant
+### 3. Mira — Emotion-Based Personal Assistant
 
 **Technologies:** React, TypeScript, FastAPI, OpenCV, MediaPipe
 
-A privacy-conscious personal assistant that understands and responds to emotional context.
+A privacy-conscious personal assistant designed to understand and respond to emotional context.
 
 - Provides adaptive conversations based on detected emotional states.
 - Includes journaling, mood history, and reflection features.
 - Supports optional local facial-expression estimation.
 - Implements privacy controls and user correction mechanisms.
 
-### Heart Disease Prediction
-
-**Technologies:** Python, Pandas, Scikit-learn, Logistic Regression, Java Swing
-
-A machine learning application designed to predict heart disease risk.
-
-- Developed a complete data preprocessing and model evaluation workflow.
-- Implemented Logistic Regression for prediction.
-- Built a Java Swing interface for patient input.
-- Integrated the Java frontend with a Python ML backend.
-
-### YourBroker — Rental Property Application
+### 4. YourBroker — Rental Property Application
 
 **Technologies:** React Native, JavaScript, Firebase
 
@@ -86,18 +91,18 @@ A mobile application connecting property owners, brokers, and potential tenants.
 
 ## Technical Skills
 
-**Programming Languages**
+### Programming Languages
 
 <p>
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
 <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black"/>
 <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 </p>
 
-**Data Science & Machine Learning**
+### Data Science & Machine Learning
 
 <p>
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
@@ -107,18 +112,31 @@ A mobile application connecting property owners, brokers, and potential tenants.
 <img src="https://img.shields.io/badge/MediaPipe-0097A7?style=for-the-badge&logo=google&logoColor=white"/>
 </p>
 
-**Web Development & Backend**
+### Data Science Concepts
+
+- Data Cleaning and Preprocessing
+- Exploratory Data Analysis (EDA)
+- Handling Missing Values and Outliers
+- Feature Engineering and Transformation
+- Data Visualization
+- Supervised Machine Learning
+- Logistic Regression
+- K-Nearest Neighbors
+- Decision Trees and Random Forest
+- Model Evaluation
+
+### Web Development & Backend
 
 <p>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
 <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+<img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
 <img src="https://img.shields.io/badge/JSP-4479A1?style=for-the-badge&logo=java&logoColor=white"/>
 </p>
 
-**Databases & Testing**
+### Databases & API Testing
 
 <p>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
@@ -127,7 +145,7 @@ A mobile application connecting property owners, brokers, and potential tenants.
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
 </p>
 
-**Development Tools & Platforms**
+### Development Tools
 
 <p>
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
@@ -136,7 +154,7 @@ A mobile application connecting property owners, brokers, and potential tenants.
 <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white"/>
 </p>
 
-**Core Concepts:** OOP · DSA · DBMS · REST APIs · Manual Testing · Test Case Writing · Data Preprocessing · EDA · RAG · OCR
+**Core Concepts:** OOP · DSA · DBMS · REST APIs · Data Preprocessing · EDA · Machine Learning · RAG · OCR
 
 ---
 
@@ -147,6 +165,7 @@ A mobile application connecting property owners, brokers, and potential tenants.
 <a href="https://github.com/Prafulla0001">
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=Prafulla0001&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true"/>
 </a>
+
 <a href="https://github.com/Prafulla0001">
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prafulla0001&layout=compact&theme=tokyonight&hide_border=true&langs_count=6"/>
 </a>
@@ -198,7 +217,7 @@ A mobile application connecting property owners, brokers, and potential tenants.
 
 B.Tech in Computer Engineering | 2025 – 2028
 
-CGPA: **9.00 / 10**
+CGPA: **8.68 / 10**
 
 **AISSMS Polytechnic, Pune**
 
@@ -219,15 +238,18 @@ Percentage: **93.83%**
 
 ## Currently Learning
 
-- **Full Stack Java:** Telusko
-- **Data Science:** Krish Naik, Udemy
-- **Data Structures & Algorithms:** Regular C++ problem-solving practice
+- **Data Science:** Krish Naik – Udemy Data Science Course.
+- **Python Development:** Flask and backend fundamentals.
+- **Machine Learning:** Strengthening algorithm understanding and practical implementation.
+- **Data Structures & Algorithms:** Regular C++ problem-solving practice.
 
 ---
 
 <div align="center">
 
-**Open to internships and opportunities in Software Development, Java Development, Data Science, and Quality Assurance.**
+### Let's Connect!
+
+**Open to internships and opportunities in Data Science, Machine Learning, Data Analytics, and Python Development.**
 
 <a href="mailto:prafullamandal2006@gmail.com">
 <img src="https://img.shields.io/badge/Contact_Me-2563EB?style=for-the-badge&logo=gmail&logoColor=white"/>
