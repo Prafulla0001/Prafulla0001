@@ -215,7 +215,7 @@ A mobile application connecting property owners, brokers, and potential tenants.
 
 B.Tech in Computer Engineering | 2025 – 2028
 
-CGPA: **8.68 / 10**
+CGPA: **9.00 / 10**
 
 **AISSMS Polytechnic, Pune**
 
